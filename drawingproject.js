@@ -93,3 +93,16 @@ canvas.fillRect(630, -10, 30, 30);
 canvas.fillRect(660, -10, 30, 30);
 canvas.fillRect(690, -10, 30, 30);
 canvas.fillRect(690, 20, 30, 30);
+
+
+canvas.fillStyle = "White";
+canvas.fillRect(450, 200, 30, 30);
+canvas.fillRect(450, 230, 60, 60);
+canvas.fillRect(480, 290, 30, 30);
+canvas.fillRect(510, 290, 60, 30);
+canvas.fillRect(510, 260, 30, 30);
+canvas.fillRect(660, 290, 30, 30);
+canvas.fillRect(690, 290, 60, 30);
+canvas.fillRect(695, 260, 90, 30);
+canvas.fillRect(725, 230, 60, 30);
+canvas.fillRect(755, 200, 30, 30);
